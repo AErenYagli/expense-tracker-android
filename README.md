@@ -102,7 +102,7 @@ com.example.expensetracker/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/AErenYagli/expense-tracker-android.git
 ```
 
 2. **Open in Android Studio**
@@ -184,38 +184,3 @@ This project is created for portfolio purposes.
 ---
 
 ### 🌟 If you found this project helpful, please give it a star!
-```
-
----
-
-## 📸 README.md'ye Eklenecek Screenshot'lar
-
-### **Alınması Gereken Ekran Görüntüleri:**
-
-1. **Expense List** (boş liste + dolu liste)
-2. **Add Expense** (form ekranı)
-3. **Statistics** (pie chart ile)
-4. **Delete Dialog** (opsiyonel)
-
-### **Screenshot Alma:**
-
-1. Uygulamayı emülatörde/gerçek cihazda çalıştır
-2. Her ekrandan screenshot al
-3. Proje root'unda `screenshots/` klasörü oluştur
-4. Resimleri oraya koy:
-   - `screenshots/list.png`
-   - `screenshots/add.png`
-   - `screenshots/stats.png`
-
----
-
-## 📁 README.md Dosyasını Nereye Koyacaksın?
-
-**Konum:** Projenin **root klasörü** (en üst seviye)
-```
-ExpenseTracker/                    ← BURAYA
-├── README.md                      ← BU DOSYA
-├── app/
-├── gradle/
-├── build.gradle.kts
-└── settings.gradle.kts
